@@ -1,0 +1,11 @@
+PART 1
+Once upon a time, three data scientists discovered a mysterious dataset
+on a shared network drive. The dataset promised incredible insights,
+but no documentation was provided.
+
+PART 2
+[TO BE WRITTEN]
+
+PART 3
+In the end, they realized that version control mattered more than
+any single model, and they lived reproducibly ever after.
